@@ -15,6 +15,8 @@ This app was created to update an existing budget tracker that also allows for o
 <hr />
 
 ### Usage
+<img width="1424" alt="Screen Shot 2021-04-22 at 9 47 28 PM" src="https://user-images.githubusercontent.com/40181569/115811746-e917ef00-a3b5-11eb-8d84-5ddb5e60e531.png">
+
 
 <hr />
 
