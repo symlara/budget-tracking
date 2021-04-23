@@ -4,7 +4,7 @@
 <a href="#"><img src="https://img.shields.io/badge/languages%20-3-informational"></a>
 
 ## Desription
-This app was created Coding Bootcamp , challenge 19. Its primary use is to update an existing budget tracker that also allows for offline access and functionality.
+This app was created for Coding Bootcamp , Challenge 19. Its primary use is to update an existing budget tracker that also allows for offline access and functionality. This app has been tranformed into a full PWA using the tool mentioned below.
 
 
 ## Table of Contents
