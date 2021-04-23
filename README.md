@@ -27,6 +27,6 @@ Made by <a href="https://www.linkedin.com/in/aaliyah-symlar-931213102">Aaliyah S
 Here's a list of the primary tools that were used to build this app:
 * PWA - Progressive Web App
 * IndexedDB
-* MongoDB
-* Mongoose
-* Express
+* <a href="https://www.mongodb.com">MongoDB</a>
+* <a href="https://mongoosejs.com" target="_blank">Mongoose</a>
+* <a href="https://expressjs.com">Express</a>
