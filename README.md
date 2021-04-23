@@ -1,9 +1,10 @@
 # Budget-Tracking
 
 <a href="#"><img src="https://img.shields.io/badge/javascript-80%25-green"></a>
+<a href="#"><img src="https://img.shields.io/badge/languages%20-3-informational"></a>
 
 ## Desription
-This app was created to update an existing budget tracker that also allows for offline access and functionality.
+This app was created Coding Bootcamp , challenge 19. Its primary use is to update an existing budget tracker that also allows for offline access and functionality.
 
 
 ## Table of Contents
